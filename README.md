@@ -19,13 +19,13 @@ This repository has been tested under the following environment:
 
 2.  Clone the repository and put your models to be evaluated in ``models/``.
 
-3.  Download megaface testpack data from [BaiduCloud](https://pan.baidu.com/s/1kUXItYfHowpczk-80FLoGg) or [GoogleDrive](TODO) and unzip it to ``data/``.
+3.  Download megaface testpack data from [BaiduCloud](https://pan.baidu.com/s/1kUXItYfHowpczk-80FLoGg) and unzip it to ``data/``.
 
 4.  Download megaface official devkit from [BaiduCloud](https://pan.baidu.com/s/1M7KF8IrcWCmzRprtahszcA) or [GoogleDrive](https://drive.google.com/open?id=1ESr2PzPg5c2trzlkr_ZqtKeaRkmvjeNi) and unzip to ``devkit/``.
     
 5.  Edit and call ``run.sh`` to evaluate your face recognition model performance.
 
-6.  Edit and run ``plot_result.py`` if you want to visulize the final results.
+6.  Edit and run ``plot_result.py`` if you want to visualize the final results.
     
 
 
