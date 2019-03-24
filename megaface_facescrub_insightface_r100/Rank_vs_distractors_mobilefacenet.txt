@@ -1,7 +1,0 @@
-Rank_1 recall at different #distractors
-#distractors  recall
-1000000  0.886308
-
-Rank_10 recall at different #distractors
-#distractors  recall
-1000000  0.939095

@@ -1,3 +1,0 @@
-TPR@FPR=1e-06 at different #distractors
-#distractors  TPR
-1000000 0.986016

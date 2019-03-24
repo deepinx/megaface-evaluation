@@ -1,5 +1,0 @@
-Rank-1 and Rank-10 at different #distractors
-
-method                          	rank1@1000000 	rank10@1000000
-mobilefacenet                   	0.886308        	0.939095        
-insightface-r100                	0.983584        	0.986597        
