@@ -683,11 +683,11 @@ def plot_megaface_result(your_method_dirs, your_method_labels,
 
 if __name__ == '__main__':
     your_method_dirs = [
-        '/media/3T_disk/my_datasets/megaface/mobilefacenet_results',
+        # '/media/3T_disk/my_datasets/megaface/mobilefacenet_results',
         '/media/3T_disk/my_datasets/megaface/r100ii_results',
     ]
     your_method_labels = [
-        'mobilefacenet',
+        # 'mobilefacenet',
         'insightface-r100'
     ]
 
