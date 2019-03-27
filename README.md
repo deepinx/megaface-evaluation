@@ -1,7 +1,7 @@
 
 ## MegaFace Evaluation Tool for MXNet Models
 
-MegaFace is a set of public face datasets published and maintained by the University of Washington's Computer Science and Engineering Laboratory. It is a benchmark of 1 million-scale facial recognition algorithm. The dataset contains 690,572 images with 1,027,060 images. This repository contains a simplest tool to evaluate your models on Megaface Challenge 1 benchmark. All the codes are implemented in Python and Mxnet in this repo.
+MegaFace is a set of public face datasets published and maintained by the University of Washington's Computer Science and Engineering Laboratory. It is a benchmark of 1 million-scale facial recognition algorithm. The dataset contains 690,572 images with 1,027,060 images. This repository contains a simple tool to evaluate your models on Megaface Challenge 1 benchmark. All the codes are implemented in Python and Mxnet in this repo.
 
 
 ## Environment
